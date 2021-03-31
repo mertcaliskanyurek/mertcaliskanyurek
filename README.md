@@ -20,7 +20,7 @@ Linus Torvalds: "Talk is cheap. Show me the code."
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcaliskanyurek&layout=compact)](https://github.com/mertcaliskanyurek/github-readme-stats)
 
-### 🌍 For more information wisit my personal website
+### 🌍 For more information visit my personal website
 
  [mertcaliskanyurek.github.io/](https://mertcaliskanyurek.github.io/)
 
